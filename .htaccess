@@ -1,0 +1,31 @@
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+
+    
+    RewriteRule ^([^/.]+).html login.php
+    RewriteRule ^([^/.]+).html index.php
+    RewriteRule ^masuk$ login.php
+    RewriteRule ^home$ index.php
+    RewriteRule ^userbaru index.php?page=input_user
+    RewriteRule ^datauser index.php?page=data_user
+    RewriteRule ^inputsurat index.php?page=input_surat
+    RewriteRule ^carisurat index.php?page=cari_surat
+    RewriteRule ^inputdivisi index.php?page=input_divisi
+    RewriteRule ^datadivisi index.php?page=data_divisi
+    RewriteRule ^userdetail/([0-9a-zA-Z]+) index.php?page=view_user&id=$1
+    RewriteRule ^edituser/([0-9a-zA-Z]+) index.php?page=edit_user&id=$1
+    RewriteRule ^suratdetail/([0-9a-zA-Z]+) index.php?page=view_surat&id=$1
+    RewriteRule ^editsurat/([0-9a-zA-Z]+) index.php?page=edit_surat&id=$1
+    RewriteRule ^print/([0-9a-zA-Z]+) cetak_surat.php?id=$1
+    RewriteRule ^editdivisi/([0-9a-zA-Z]+) index.php?page=edit_divisi&id=$1
+    AddType application/x-httpd-php .rock
+
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+    # If we don't have mod_rewrite installed, all 404's
+    # can be sent to index.php, and everything works as normal.
+    # Submitted by: ElliotHaughin
+
+    ErrorDocument 404 /index.php
+</IfModule>

@@ -1,0 +1,16 @@
+ayu – [2018:08:26- 23:57:23] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:25] -[/arsip/index.php]  -[/arsip/index.php?page=input_surat]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:26] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:26] -[/arsip/index.php]  -[/arsip/index.php?page=input_surat]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:27] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:28] -[/arsip/index.php]  -[/arsip/index.php?page=input_surat]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:28] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:29] -[/arsip/index.php]  -[/arsip/index.php?page=input_surat]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+ayu – [2018:08:26- 23:57:29] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:20] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:21] -[/arsip/index.php]  -[/arsip/index.php?page=cari_surat]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:24] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:25] -[/arsip/index.php]  -[/arsip/index.php?page=galeri]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:48] -[/arsip/index.php]  -[/arsip/index.php?page=data_user]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:52] -[/arsip/index.php]  -[/arsip/index.php?page=delete_user&id=33]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:26- 23:59:54] -[/arsip/index.php]  -[/arsip/index.php]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>

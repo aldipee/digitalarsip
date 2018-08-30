@@ -1,0 +1,15 @@
+aldipee – [2018:08:30- 06:02:54] -[/80/index.php]  -[/80/home]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:02:57] -[/80/index.php]  -[/80/userbaru]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:03:31] -[/80/index.php]  -[/80/index.php?page=data_user&msg=done&act=input]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:05:47] -[/80/index.php]  -[/80/]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:05:47] -[/80/index.php]  -[/80/]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:05:51] -[/80/index.php]  -[/80/userbaru]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:06:12] -[/80/index.php]  -[/80/index.php?page=data_user&msg=exist]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:06:45] -[/80/index.php]  -[/80/userbaru]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:07:27] -[/80/index.php]  -[/80/userbaru]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:07:39] -[/80/index.php]  -[/80/home]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:22:25] -[/80/index.php]  -[/80/datauser]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:22:28] -[/80/index.php]  -[/80/datauser]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:22:30] -[/80/index.php]  -[/80/datauser]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:22:35] -[/80/index.php]  -[/80/datauser]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
+aldipee – [2018:08:30- 06:22:39] -[/80/index.php]  -[/80/datauser]  -(Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36) END=>>
