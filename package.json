@@ -1,0 +1,29 @@
+{
+  "name": "digitalarsip",
+  "version": "1.0.0",
+  "description": "Simple digital arsip with PHP",
+  "main": "index.js",
+  "dependencies": {
+    "postcss": "^7.0.2",
+    "uglify-js": "^3.4.8"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldipee/digitalarsip.git"
+  },
+  "keywords": [
+    "None"
+  ],
+  "author": "Aldi Pranata",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aldipee/digitalarsip/issues"
+  },
+  "homepage": "https://github.com/aldipee/digitalarsip#readme"
+}
